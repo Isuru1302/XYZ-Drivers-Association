@@ -9,16 +9,16 @@ Java web application for an insurance company to streamline their business proce
 &nbsp;&nbsp;&nbsp;Members will suspend for unpaid anual fees and charges and resume the membership if they paid all outstanding balance
 
 **Functionalities:-**
-&nbsp;&nbsp;&nbsp;Register to the XYZ company
-&nbsp;&nbsp;&nbsp;Claim accident reward
-&nbsp;&nbsp;&nbsp;Request a claim
-&nbsp;&nbsp;&nbsp;Get premium amount
-&nbsp;&nbsp;&nbsp;View insurance details
-&nbsp;&nbsp;&nbsp;Register  vehicle
-&nbsp;&nbsp;&nbsp;View vehicle data
-&nbsp;&nbsp;&nbsp;Accept or reject claim (Staff)
-&nbsp;&nbsp;&nbsp;View user data (Staff)
-&nbsp;&nbsp;&nbsp;Edit user claim data (Staff)
-&nbsp;&nbsp;&nbsp;Claculate outstanding cost (Staff)
+&nbsp;&nbsp;&nbsp;Register to the XYZ company<br/>
+&nbsp;&nbsp;&nbsp;Claim accident reward<br/>
+&nbsp;&nbsp;&nbsp;Request a claim<br/>
+&nbsp;&nbsp;&nbsp;Get premium amount<br/>
+&nbsp;&nbsp;&nbsp;View insurance details<br/>
+&nbsp;&nbsp;&nbsp;Register  vehicle<br/>
+&nbsp;&nbsp;&nbsp;View vehicle data<br/>
+&nbsp;&nbsp;&nbsp;Accept or reject claim (Staff)<br/>
+&nbsp;&nbsp;&nbsp;View user data (Staff)<br/>
+&nbsp;&nbsp;&nbsp;Edit user claim data (Staff)<br/>
+&nbsp;&nbsp;&nbsp;Claculate outstanding cost (Staff)<br/>
 
 *IDE:- NetBeans*
