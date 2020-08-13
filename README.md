@@ -2,13 +2,13 @@
 
 Java web application for an insurance company to streamline their business processes and help for a smooth administrator. (University project)
 
-**About:-**
-&nbsp;&nbsp;&nbsp;The Association aims to own a web application to help for a smooth administration.
-&nbsp;&nbsp;&nbsp;Members can request claim for their accident with reason.
-&nbsp;&nbsp;&nbsp;Company pay special Premium cost for members.
-&nbsp;&nbsp;&nbsp;Members will suspend for unpaid anual fees and charges and resume the membership if they paid all outstanding balance
+**About:-**<br/>
+&nbsp;&nbsp;&nbsp;The Association aims to own a web application to help for a smooth administration.<br/>
+&nbsp;&nbsp;&nbsp;Members can request claim for their accident with reason.<br/>
+&nbsp;&nbsp;&nbsp;Company pay special Premium cost for members.<br/>
+&nbsp;&nbsp;&nbsp;Members will suspend for unpaid anual fees and charges and resume the membership if they paid all outstanding balance.<br/>
 
-**Functionalities:-**
+**Functionalities:-**<br/>
 &nbsp;&nbsp;&nbsp;Register to the XYZ company<br/>
 &nbsp;&nbsp;&nbsp;Claim accident reward<br/>
 &nbsp;&nbsp;&nbsp;Request a claim<br/>
